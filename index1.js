@@ -5,11 +5,11 @@ let a = 10;
 let b = 20;
 
 // Arrow functions
-const tambah = (x, y) => x + y;
-const kurang = (x, y) => x - y;
-const kali = (x, y) => x * y;
-const bagi = (x, y) => x / y;
-const modulus = (x, y) => x % y;
+const tambah = (a, b) => a + b;
+const kurang = (a, b) => a - b;
+const kali = (a, b) => a * b;
+const bagi = (a, b) => a / b;
+const modulus = (a, b) => a % b;
 
 // Tampilkan nilai awal
 console.log(`a = ${a}`);
